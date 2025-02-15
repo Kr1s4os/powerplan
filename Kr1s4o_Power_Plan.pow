@@ -1,2 +1,0 @@
-powercfg -create <Kr1s4o Power Plan>
-powercfg -export "C:Kr1s4o Power Plan" <11111111-1111-1111-1111-111111111111>
